@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript
 - 📫 How to reach me: email.com 
 - 😄 Pronouns: kola
-- ⚡ Fun fact: reading
+- ⚡ Fun fact: reading books
 
